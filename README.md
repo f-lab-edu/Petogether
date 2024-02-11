@@ -13,7 +13,6 @@
 - Redis
 - Naver cloud platform
 - AWS S3
-- Docker
 
 # 프로젝트 목표
 
