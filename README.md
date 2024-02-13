@@ -22,3 +22,5 @@
 - 협업 과정에서 명확한 Commit convention을 사용하여 올바른 협업 환경을 설정하여 프로젝트를 진행합니다. [Commit convention](https://github.com/f-lab-edu/Petogether/wiki)
 
 # 기술적 issue 해결 과정
+
+- [로그인 기능 구현방식 선택](https://1715leekc.tistory.com/236)
